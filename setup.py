@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='ppack',  # 패키지 이름 (import할 이름과 동일하게)
+    name='ppack',  
     version='0.1',
     packages=find_packages(),
     install_requires=[
