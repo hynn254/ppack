@@ -8,13 +8,12 @@ setup(
     install_requires=[
         'numpy',
         'scipy',
-        # 필요한 패키지 더 넣기
     ],
-    author='your-name-or-id',
+    author='HYOJIN JO',
     description='A lightweight biosignal preprocessing package',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/your-id/ppack',
+    url='https://github.com/hynn0254/ppack',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
